@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Glory To The State Of Israel 🇮🇱",
+        name: "Glory To The State Of Israel :flag_il: ",
         // Activity type number (0 = Playing).
         type: 0,
       },
